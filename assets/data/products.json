@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Kablosuz Kulaklık",
+    "subtitle": "Aktif gürültü engelleme",
+    "description": "40 saate varan pil ömrü, aktif gürültü engelleme ve çok noktalı Bluetooth bağlantısı sunan kulak üstü kablosuz kulaklık. Katlanabilir tasarımı sayesinde taşıması kolaydır.",
+    "price": 2499.0,
+    "category": "Ses",
+    "image": "assets/images/kulaklik.png"
+  },
+  {
+    "id": 2,
+    "name": "Akıllı Saat",
+    "subtitle": "Sağlık ve spor takibi",
+    "description": "Kalp atış hızı, uyku ve adım takibi yapan, su geçirmez akıllı saat. Gelen bildirimleri bileğinizden görebilir, 7 güne kadar pil ömrünün keyfini çıkarabilirsiniz.",
+    "price": 3299.0,
+    "category": "Giyilebilir",
+    "image": "assets/images/saat.png"
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Hoparlör",
+    "subtitle": "360 derece ses",
+    "description": "Her yöne dengeli ses yayan, su ve toza dayanıklı taşınabilir hoparlör. Tek şarjla 12 saate kadar müzik dinletir.",
+    "price": 1199.0,
+    "category": "Ses",
+    "image": "assets/images/hoparlor.png"
+  },
+  {
+    "id": 4,
+    "name": "Dizüstü Bilgisayar",
+    "subtitle": "Hafif ve güçlü",
+    "description": "14 inç Full HD ekranlı, 16 GB RAM ve 512 GB SSD'li hafif dizüstü bilgisayar. Ders, ofis ve günlük işler için gün boyu performans sunar.",
+    "price": 28999.0,
+    "category": "Bilgisayar",
+    "image": "assets/images/laptop.png"
+  },
+  {
+    "id": 5,
+    "name": "Tablet",
+    "subtitle": "10 inç geniş ekran",
+    "description": "10 inç yüksek çözünürlüklü ekranı olan, kalem desteği sunan tablet. Not almak, kitap okumak ve film izlemek için idealdir.",
+    "price": 9499.0,
+    "category": "Bilgisayar",
+    "image": "assets/images/tablet.png"
+  },
+  {
+    "id": 6,
+    "name": "Akıllı Telefon",
+    "subtitle": "Gelişmiş çift kamera",
+    "description": "6.5 inç AMOLED ekranlı, 128 GB depolamalı akıllı telefon. Çift kamerası ile gece çekimlerinde bile net fotoğraflar sunar.",
+    "price": 17999.0,
+    "category": "Telefon",
+    "image": "assets/images/telefon.png"
+  },
+  {
+    "id": 7,
+    "name": "Mekanik Klavye",
+    "subtitle": "Arkadan aydınlatmalı",
+    "description": "Dayanıklı mekanik anahtarlara ve RGB arkadan aydınlatmaya sahip klavye. Hızlı yanıt süresi ve rahat tuş hissi sunar.",
+    "price": 1599.0,
+    "category": "Aksesuar",
+    "image": "assets/images/klavye.png"
+  },
+  {
+    "id": 8,
+    "name": "Oyuncu Faresi",
+    "subtitle": "Yüksek hassasiyet",
+    "description": "16000 DPI hassasiyetli sensörü ve ergonomik tasarımıyla uzun süreli kullanımda bile konfor sağlayan kablosuz fare.",
+    "price": 899.0,
+    "category": "Aksesuar",
+    "image": "assets/images/fare.png"
+  }
+]
